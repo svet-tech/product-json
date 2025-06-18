@@ -1,6 +1,6 @@
 body{
-    background-color: rgb(218, 176, 176); 
-
+    background-color: rgb(237, 204, 204); 
+}
 .product-container{
     display: flex;
     flex-wrap: wrap;
