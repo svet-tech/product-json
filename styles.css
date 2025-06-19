@@ -26,7 +26,7 @@ body{
     display: flex;
     gap: 8px;
     flex-wrap: wrap;
-    color: rgb(104, 179, 179);
+    color: rgb(48, 126, 126);
 
 }
 .input-block{
